@@ -1,6 +1,8 @@
 go 1.22.0
 
 use (
-	./a-hello-world
-	./b-string-interpolation
+	./a_hello_world
+	./b_string_interpolation
+	./c_var_types
+	./d_shadowing
 )
