@@ -5,4 +5,5 @@ use (
 	./b_string_interpolation
 	./c_var_types
 	./d_shadowing
+	./e_data_types
 )
