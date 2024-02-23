@@ -8,4 +8,5 @@ use (
 	./e_data_types
 	./f_functions
 	./g_pass_by_value_n_reference
+	./h_struct
 )
