@@ -4,7 +4,7 @@ import "fmt"
 
 type User struct {
 	Username string
-	email    string
+	email    string // private
 	Age      int
 	Active   bool
 }
