@@ -10,4 +10,5 @@ use (
 	./g_pass_by_value_n_reference
 	./h_struct
 	./i_enum
+	./j_enum_2
 )
