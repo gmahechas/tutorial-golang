@@ -11,4 +11,7 @@ use (
 	./h_struct
 	./i_enum
 	./j_enum_2
+	./k_generic
+	./l_traits_interfaces
+	./m_trait_debug
 )
