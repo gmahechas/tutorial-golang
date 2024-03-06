@@ -15,4 +15,5 @@ use (
 	./l_traits_interfaces
 	./m_trait_debug
 	./n_iterators
+	./o_closures
 )
