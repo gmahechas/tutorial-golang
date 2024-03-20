@@ -16,4 +16,8 @@ use (
 	./m_trait_debug
 	./n_iterators
 	./o_closures
+	./p_prelude
+	./q_control_structures
+	./r_collections
+	./s_ownership_borrowing
 )
